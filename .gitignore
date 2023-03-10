@@ -1,0 +1,9 @@
+## AL
+
+# Binary files
+.alpackages/
+*.app
+
+# Temp files
+.vs/
+.vscode/

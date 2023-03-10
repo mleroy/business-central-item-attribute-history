@@ -1,0 +1,32 @@
+{
+  "id": "e8c8ecd2-1132-4177-97d0-d202ed32d8f9",
+  "name": "Item Attribute History",
+  "publisher": "Marvyn Leroy",
+  "version": "1.0.0.0",
+  "brief": "Detects and records changes to item attribute value mappings.",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50140,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
