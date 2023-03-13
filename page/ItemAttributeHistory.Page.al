@@ -63,6 +63,7 @@ page 50140 "Item Attribute History"
                 trigger OnAction()
                 begin
                     CurrPage.Update();
+                    Rec.FindFirst();
                 end;
             }
         }
