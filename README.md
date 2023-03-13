@@ -9,6 +9,8 @@ If keeping a historical record of attribute values is important to your business
 
 *Item Attribute History* is an extension for Business Central that maintains a history of attribute values as they are added / modified / deleted from items. With it, you are able to look back in time and see what attribute value was set on an item at any given time (... from the point you install this extension!).
 
+Additional context available on this post: [Announcing Business Central Item Attribute History](https://marvyn.io/tech/business-central-item-attribute-history-1.0/).
+
 ### What's included
 
 ##### History Table
